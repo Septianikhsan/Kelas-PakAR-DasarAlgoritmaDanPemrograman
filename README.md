@@ -12,7 +12,6 @@ Aplikasi CLI (Command Line Interface) sederhana untuk mengelola data barang di t
 - ✅ Edit & hapus barang
 - ✅ Pencarian barang berdasarkan nama
 - ✅ Laporan ringkas (jumlah jenis barang & total nilai inventori)
-- ✅ Export data ke CSV
 
 ---
 
